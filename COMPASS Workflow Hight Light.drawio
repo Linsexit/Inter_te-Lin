@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="_EWMuvv7vGjWz2cjbWxM">
-    <mxGraphModel dx="1998" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="30" x="-790" y="325" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-17" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#CCCCCC;" value="SQL Server / MySQL / PostgreSQL" vertex="1">
-          <mxGeometry height="80" width="120" x="-380" y="550" as="geometry" />
+          <mxGeometry height="80" width="120" x="-190" y="550" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="compass-workflow-core" vertex="1">
           <mxGeometry height="30" width="220" x="-159" y="310" as="geometry" />
