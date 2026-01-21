@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="_EWMuvv7vGjWz2cjbWxM">
-    <mxGraphModel dx="2146" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,22 +10,22 @@
         <mxCell id="x6yX5c5Hi0345Bx32KG9-37" edge="1" parent="1" source="x6yX5c5Hi0345Bx32KG9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x6yX5c5Hi0345Bx32KG9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="150" width="220" x="-700" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Management" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Management" vertex="1">
           <mxGeometry height="35" width="200" x="-690" y="325" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;COMPASS Studio&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-700" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Workspace" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Workspace" vertex="1">
           <mxGeometry height="33.5" width="200" x="-690" y="376.5" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="250" width="390" x="-280" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="177" width="240" x="-152" y="263" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;COMPASS Wrapper&lt;/font&gt;&lt;/b&gt;" vertex="1">
@@ -82,7 +82,7 @@
           <mxGeometry height="177" width="242" x="138" y="293" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;COMPASS Wrokflow&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="180" x="120" y="311" as="geometry" />
+          <mxGeometry height="20" width="180" x="120" y="299" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="compass-workflow-api" vertex="1">
           <mxGeometry height="30" width="220" x="148" y="333" as="geometry" />
