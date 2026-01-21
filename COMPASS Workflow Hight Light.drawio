@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="_EWMuvv7vGjWz2cjbWxM">
-    <mxGraphModel dx="2515" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,13 +55,13 @@
         <mxCell id="x6yX5c5Hi0345Bx32KG9-40" edge="1" parent="1" source="x6yX5c5Hi0345Bx32KG9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x6yX5c5Hi0345Bx32KG9-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font face=&quot;Helvetica&quot;&gt;COMPASS Wrapper Controller&lt;/font&gt;" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font face=&quot;Helvetica&quot;&gt;COMPASS Wrapper JSON Mapping&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="80" x="-277" y="306.5" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-38" edge="1" parent="1" source="x6yX5c5Hi0345Bx32KG9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x6yX5c5Hi0345Bx32KG9-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x6yX5c5Hi0345Bx32KG9-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font face=&quot;Helvetica&quot;&gt;COMPASS Studio Integration Server&lt;/font&gt;" vertex="1">
+        <mxCell id="x6yX5c5Hi0345Bx32KG9-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font face=&quot;Helvetica&quot;&gt;COMPASS Studio Integration Function&lt;/font&gt;" vertex="1">
           <mxGeometry height="97" width="80" x="-443" y="306.5" as="geometry" />
         </mxCell>
         <mxCell id="x6yX5c5Hi0345Bx32KG9-33" edge="1" parent="1" source="x6yX5c5Hi0345Bx32KG9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="x6yX5c5Hi0345Bx32KG9-17">
